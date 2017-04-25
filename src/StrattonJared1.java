@@ -6,7 +6,7 @@ public class StrattonJared1 {
     // class constants, one per part, all of these are scalable
     public static final int FIBONACCI = 20; // part 1, Fibonacci, quantity of desired results
     public static final int RIGHTLINES = 9; // part 2, quantity of lines desired
-    public static final int STICKMEN = 5;   // part 3, number of 'steps' or 'stick men' desired
+    public static final int STICKMEN = 12;   // part 3, number of 'steps' or 'stick men' desired
 
     // main call, the big show
     public static void main(String[] args)  {
